@@ -7,7 +7,7 @@ I specialize in leveraging technology and development to create complete interac
 Over 10 years of commercial experience, I can be a value to your project.
 
 ## My Skills 🤹
-[![skills](https://pure-escarpment-54474.herokuapp.com/api?type=html)](https://github.com/betterTisen/github-skill-card)
-[![skills](https://pure-escarpment-54474.herokuapp.com/api?type=css)](https://github.com/betterTisen/github-skill-card)
-[![skills](https://pure-escarpment-54474.herokuapp.com/api?type=javascript)](https://github.com/betterTisen/github-skill-card)
-[![skills](https://pure-escarpment-54474.herokuapp.com/api?type=react)](https://github.com/betterTisen/github-skill-card)
+[![skill](https://pure-escarpment-54474.herokuapp.com/api?type=html)](https://github.com/betterTisen/github-skill-card)
+[![skill](https://pure-escarpment-54474.herokuapp.com/api?type=css)](https://github.com/betterTisen/github-skill-card)
+[![skill](https://pure-escarpment-54474.herokuapp.com/api?type=javascript)](https://github.com/betterTisen/github-skill-card)
+[![skill](https://pure-escarpment-54474.herokuapp.com/api?type=react)](https://github.com/betterTisen/github-skill-card)
